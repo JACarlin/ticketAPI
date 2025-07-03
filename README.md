@@ -113,9 +113,3 @@ Una vez desplegada, la API expondrá los siguientes endpoints. La URL base será
     ```
 
 <br>
-
-## 📬 Contacto
-
-Tu Nombre – tu.email@ejemplo.com
-
-Link del Proyecto: [https://github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)
