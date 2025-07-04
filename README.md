@@ -46,7 +46,7 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/JACarlin/ticketAPI.git
     ```
 2.  **Configura la Base de Datos:**
     * Crea una base de datos en MySQL. Puedes llamarla `tickets_db`.
